@@ -909,6 +909,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .services-item {
+  align-items: center;
   background: #fff;
   border-radius: 4px;
   padding: 48px 20px;
